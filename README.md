@@ -8,7 +8,7 @@
 const Bryan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "PHP", "Dart"],
-    askMeAbout: ["Mobile Developer", "Web Developer", "Gamer Pro Player"],
+    askMeAbout: ["Mobile Development", "Web Development", "Gaming", "Hardware & Tech"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
