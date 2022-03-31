@@ -2,7 +2,7 @@
 <p><em>Mobile Developer at <a href="https://mycodedmind.com/">MyCodedMind</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-castro-ec/)](https://www.linkedin.com/in/anmol098/)
+[Linkedin: Bryan Castro](https://www.linkedin.com/in/bryan-castro-ec/)
 
 ### 👨‍💻 A little more about me...  
 
