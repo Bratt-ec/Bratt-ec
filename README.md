@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Hi there 😎, I'm Bryan Castro</h2>
+<p><em>Mobile Developer at <a href="https://mycodedmind.com/">MyCodedMind</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Bratt-ec/Bratt-ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 A little more about me...  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Bryan = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "PHP"],
+    askMeAbout: ["Mobile Developer", "Web Developer", "Gamer Pro Player"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            js: ["React", "Angular", "Ionic"],
+        },
+        mobileApp: {
+            multiPlatform: ["Flutter", "React Native", "Capacitor"]
+        },
+        databases: ["mongo", "MySql", "sqlite", "postgreSQL"],
+        misc: ["Firebase", "Socket.IO"],
+        agile: ["Jira", "Trello"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
