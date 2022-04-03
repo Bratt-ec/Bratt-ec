@@ -1,5 +1,5 @@
 <h2> Hi there 😎, I'm Bryan Castro</h2>
-<p><em>Mobile Developer at <a href="https://mycodedmind.com/">MyCodedMind</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mobile Developer at <a href="https://mycodedmind.com/">MyCodedMind</a> & Freelance Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [Linkedin: Bryan Castro](https://www.linkedin.com/in/bryan-castro-ec/)
