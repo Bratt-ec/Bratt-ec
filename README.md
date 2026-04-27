@@ -11,23 +11,23 @@
 ```javascript
 const Bryan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "PHP", "Dart"],
+    code: ["Javascript", "Typescript", "PHP", "Dart", "C#"],
     askMeAbout: ["Mobile Development", "Web Development", "Gaming", "Hardware & Tech"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", ".NET"],
         },
         frontEnd: {
-            js: ["React", "Angular", "Ionic"],
+            js: ["React", "Angular", "Ionic", "NextJS"],
         },
         mobileApp: {
             multiPlatform: ["Flutter", "React Native", "Capacitor"]
         },
         databases: ["mongo", "MySql", "sqlite", "postgreSQL"],
-        misc: ["Firebase", "Socket.IO"],
-        agile: ["Jira", "Trello"]
+        misc: ["Firebase", "Socket.IO", "Cloudflare"],
+        agile: ["Jira", "Trello", "Productive"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "Hexagonal Architecture"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
