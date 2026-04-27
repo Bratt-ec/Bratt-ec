@@ -24,7 +24,8 @@ const Bryan = {
             multiPlatform: ["Flutter", "React Native", "Capacitor"]
         },
         databases: ["mongo", "MySql", "sqlite", "postgreSQL"],
-        misc: ["Firebase", "Socket.IO", "Cloudflare"],
+        misc: ["Firebase", "Socket.IO", "Cloudflare","Sonar","Google Play", "App Store"],
+        IA: ["Claude Code", "Gemini"],
         agile: ["Jira", "Trello", "Productive"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Hexagonal Architecture"],
