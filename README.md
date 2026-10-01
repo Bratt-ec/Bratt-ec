@@ -25,7 +25,8 @@ const Bryan = {
         },
         databases: ["mongo", "MySql", "sqlite", "postgreSQL"],
         misc: ["Firebase", "Socket.IO", "Cloudflare","Sonar","Google Play", "App Store"],
-        IA: ["Claude Code", "Gemini"],
+        IA: ["Claude Code", "Gemini", "AI Agents", "Automation", "ChatGPT"],
+        DevOps: ["Docker", "GitHub Actions", "Azure", "AWS", "GCP", "Vercel"]
         agile: ["Jira", "Trello", "Productive"]
     },
     architecture: ["Progressive web applications", "Single page applications", "Hexagonal Architecture"],
